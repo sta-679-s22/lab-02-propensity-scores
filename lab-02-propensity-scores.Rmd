@@ -1,0 +1,13 @@
+---
+title: "Lab 02 - Propensity Scores"
+author: ""
+output: html_document
+date: '2022-02-23'
+---
+
+```{r}
+library(tidyverse)
+library(ggdag)
+```
+
+# Exercise 1
